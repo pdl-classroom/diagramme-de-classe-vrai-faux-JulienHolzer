@@ -23,3 +23,5 @@ Vrai, de 5 à 30 c'est valide
 Représentez la même association avec la notation UML « petit losange » 
 
 - Quelles informations perd-on par rapport au diagramme ci-dessus ?
+
+On perd le lien direct entre Professeur et Discipline.
